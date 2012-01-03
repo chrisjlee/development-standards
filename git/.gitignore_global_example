@@ -33,7 +33,13 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
-# Wordpress
+# Aptana Files
+#####################
+.project
+.metadata
+.settings
+
+# Wordpress Generated
 # wp-content/backup-db/*
 wp-content/advanced-cache.php
 wp-content/wp-cache-config.php
